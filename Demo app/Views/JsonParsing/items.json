@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Foods",
+        "icon": "fork.knife",
+        "items": [
+            {
+                "name": "Food 1",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+            },
+            {
+                "name": "Food 2",
+                "description": "Lorem donec massa sapien faucibus et. Quam adipiscing vitae proin sagittis nisl."
+            },
+            {
+                "name": "Food 3",
+                "description": "A diam sollicitudin tempor id. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu."
+            },
+            {
+                "name": "Food 4",
+                "description": "Posuere urna nec tincidunt praesent semper feugiat."
+            },
+        ]
+    },
+    {
+        "name": "Drinks",
+        "icon": "waterbottle",
+        "items": [
+            {
+                "name": "Melon Soda",
+                "description": "Made of purest green."
+            },
+            {
+                "name": "Ramune",
+                "description": "Lemonade in a quirky bottle that confuses foreigners."
+            },
+            {
+                "name": "Green Dakara",
+                "description": "Hard to describe, but nice."
+            }
+        ]
+    },
+    {
+        "name": "Activities",
+        "icon": "figure.walk",
+        "items": [
+            {
+                "name": "Activity 1",
+                "description": "Posuere urna nec tincidunt praesent semper feugiat."
+            },
+            {
+                "name": "Activity 1",
+                "description": "Lorem donec massa sapien faucibus et."
+            }
+        ]
+    }
+]

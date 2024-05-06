@@ -1,0 +1,24 @@
+{
+  "originHash" : "115dab9ce9c7aec73734e9c1a6d25c149cb766d36f4634a4d0e5af3668abffd8",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "723fa5a6c65812aec4a0d7cc432ee198883b6e00",
+        "version" : "5.9.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
